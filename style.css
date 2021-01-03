@@ -1,0 +1,31 @@
+#output
+{
+background: rgb(0, 0, 0, 100);
+border-radius: 10px;
+border-top: 10px solid #120061;
+padding: 10px;
+float: none;
+text-align: left;
+}
+body
+{
+  background-image: url("bg.jpg");
+}
+div
+{
+  border-radius: 50px;
+  
+}
+
+h1 {
+text-align: center;
+}
+#join
+{
+  border-radius: 10px;
+  width: 100px;
+  border-width: 5px;
+  color: #030303;
+  text-decoration-style: solid;
+}
+/*game_page.html*/
